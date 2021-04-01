@@ -2,6 +2,10 @@
 
 A Document Scanner application.
 
+## Team Members
+  - [Jay](https://github.com/Jd-rathod)
+  - [Raj](https://github.com/rajcurious)
+
 ## About
   This is a cross platform  document scanner application created with flutter.
   
